@@ -58,4 +58,4 @@ Closed-source platforms offer specialized, high-performance, and integrated solu
 | Isaac | Closed-Source | Industrial Robotics & Simulation | [NVIDIA Omniverse](https://developer.nvidia.com/isaac) |
 | Spot SDK | Closed-Source | Quadruped Control | [Boston Dynamics](https://www.bostondynamics.com/) |
 
-*AI responses may include mistakes.*
+
