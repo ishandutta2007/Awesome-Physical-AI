@@ -59,3 +59,8 @@ Closed-source platforms offer specialized, high-performance, and integrated solu
 | Spot SDK | Closed-Source | Quadruped Control | [Boston Dynamics](https://www.bostondynamics.com/) |
 
 
+
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Physical-AI&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Physical-AI&type=date&legend=top-left)
